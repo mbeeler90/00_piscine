@@ -1,0 +1,1 @@
+cat /etc/passwd | cut --complement -d ':' -f 5
